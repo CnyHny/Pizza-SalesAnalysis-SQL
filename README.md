@@ -72,3 +72,27 @@ The results of the SQL analysis are exported as CSV files for easy review.
 
 ### Advanced Analysis
 - `Advanced_q1.csv` to `Advanced_q3.csv` – Advanced query results
+
+
+
+### Basic Analysis
+
+1. [Total number of orders](basic_q1.csv)
+2. [Total revenue](basic_q2.csv)
+3. [Highest-priced pizza](basic_q3.csv)
+4. [Most common pizza size](basic_q4.csv)
+5. [Top 5 most ordered pizza types](basic_q5.csv)
+
+### Intermediate Analysis
+
+1. [Intermediate Q1](intermediate_q1.csv)
+2. [Intermediate Q2](intermediate_q2.csv)
+3. [Intermediate Q3](intermediate_q3.csv)
+4. [Intermediate Q4](intermediate_q4.csv)
+5. [Intermediate Q5](intermediate_q5.csv)
+
+### Advanced Analysis
+
+1. [Advanced Q1](Advanced_q1.csv)
+2. [Advanced Q2](Advanced_q2.csv)
+3. [Advanced Q3](Advanced_q3.csv)
