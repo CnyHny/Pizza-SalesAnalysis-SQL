@@ -60,22 +60,7 @@ To apply SQL concepts to a real-world sales dataset and generate useful business
 
 The results of the SQL analysis are exported as CSV files for easy review.
 
-### Basic Analysis
-- `basic_q1.csv` – Total number of orders
-- `basic_q2.csv` – Total revenue
-- `basic_q3.csv` – Highest-priced pizza
-- `basic_q4.csv` – Most common pizza size
-- `basic_q5.csv` – Top 5 most ordered pizza types
-
-### Intermediate Analysis
-- `intermediate_q1.csv` to `intermediate_q5.csv` – Intermediate query results
-
-### Advanced Analysis
-- `Advanced_q1.csv` to `Advanced_q3.csv` – Advanced query results
-
-
-
-### Basic Analysis
+ ### Basic Analysis
 
 1. [Total number of orders](basic_q1.csv)
 2. [Total revenue](basic_q2.csv)
@@ -85,14 +70,14 @@ The results of the SQL analysis are exported as CSV files for easy review.
 
 ### Intermediate Analysis
 
-1. [Intermediate Q1](intermediate_q1.csv)
-2. [Intermediate Q2](intermediate_q2.csv)
-3. [Intermediate Q3](intermediate_q3.csv)
-4. [Intermediate Q4](intermediate_q4.csv)
-5. [Intermediate Q5](intermediate_q5.csv)
+1. [Question 6](intermediate_q1.csv)
+2. [Question 7](intermediate_q2.csv)
+3. [Question 8](intermediate_q3.csv)
+4. [Question 9](intermediate_q4.csv)
+5. [Question 10](intermediate_q5.csv)
 
 ### Advanced Analysis
 
-1. [Advanced Q1](Advanced_q1.csv)
-2. [Advanced Q2](Advanced_q2.csv)
-3. [Advanced Q3](Advanced_q3.csv)
+1. [Question 11](Advanced_q1.csv)
+2. [Question 12](Advanced_q2.csv)
+3. [Question 13](Advanced_q3.csv)
