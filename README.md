@@ -54,3 +54,21 @@ A total of 13 SQL questions were solved across three difficulty levels.
 
 ## Objective
 To apply SQL concepts to a real-world sales dataset and generate useful business insights.
+
+
+## Query Results
+
+The results of the SQL analysis are exported as CSV files for easy review.
+
+### Basic Analysis
+- `basic_q1.csv` – Total number of orders
+- `basic_q2.csv` – Total revenue
+- `basic_q3.csv` – Highest-priced pizza
+- `basic_q4.csv` – Most common pizza size
+- `basic_q5.csv` – Top 5 most ordered pizza types
+
+### Intermediate Analysis
+- `intermediate_q1.csv` to `intermediate_q5.csv` – Intermediate query results
+
+### Advanced Analysis
+- `Advanced_q1.csv` to `Advanced_q3.csv` – Advanced query results
